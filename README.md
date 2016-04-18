@@ -8,4 +8,4 @@ The initial plots can be viewed using the following links:
 
 **Note:**
 * There are multiple plots per link - please scroll to see all the plots.
-* To understand how these plots were created, please refer to the [Jupyter Notebook](NYC 311 Call Data Analysis.ipynb).
+* To understand how these plots were created, please refer to the [Jupyter Notebook](http://nbviewer.jupyter.org/github/mariocpinto/0018_PROJECT_NYC_311_Call_Data_Analysis/blob/master/NYC%20311%20Call%20Data%20Analysis.ipynb).
